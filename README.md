@@ -218,6 +218,9 @@ model_comparison_2025_predictions.csv
 
 ### 실행 방법
 
+Hugging Face로 연결 시:
+https://huggingface.co/spaces/kms12191/DrugMain
+
 로컬 실행 시:
 
 ```bash
